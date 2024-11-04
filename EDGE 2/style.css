@@ -1,3 +1,19 @@
-p{
+
+.heading{
+    font-weight: 200px;
+    color: blue;
+}
+
+.gitlink{
+    size: 100px;
+    cursor: pointer;
     font-size: 100px;
+}
+
+.photo{
+    width: 100px;
+}
+
+.logo{
+    width: 50px;
 }
